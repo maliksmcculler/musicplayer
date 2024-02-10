@@ -36,7 +36,8 @@ Playlist Reset
     If the playlist is empty, a "Reset Playlist" button appears.
     Clicking this button restores the default playlist.
 
-    <img width="470" alt="300466064-c43076f8-b37e-41eb-b74a-074f0f1caeb8" src="https://github.com/maliksmcculler/musicplayer/assets/32546679/d104034e-2a60-4dcc-a5ef-34aaa92aa283">
+<img width="470" alt="300466064-c43076f8-b37e-41eb-b74a-074f0f1caeb8" src="https://github.com/maliksmcculler/musicplayer/assets/32546679/cb983f69-6d62-461c-8bcd-69a80d41bc31">
+
 <img width="315" alt="300466182-8185836b-3333-44ff-a515-463d44fad40d" src="https://github.com/maliksmcculler/musicplayer/assets/32546679/705000f7-a0b6-4135-9248-d40decac82e7">
 
 
