@@ -1,8 +1,5 @@
 The Music Player App is a web-based application designed to provide users with a simple and intuitive interface for playing and managing a playlist of songs. The app includes essential features such as play, pause, skip, shuffle, and playlist management.
 Features
-<img width="470" alt="300466064-c43076f8-b37e-41eb-b74a-074f0f1caeb8" src="https://github.com/maliksmcculler/musicplayer/assets/32546679/d104034e-2a60-4dcc-a5ef-34aaa92aa283">
-<img width="315" alt="300466182-8185836b-3333-44ff-a515-463d44fad40d" src="https://github.com/maliksmcculler/musicplayer/assets/32546679/705000f7-a0b6-4135-9248-d40decac82e7">
-
 
 1. Player Controls
 
@@ -38,6 +35,10 @@ Playlist Reset
 
     If the playlist is empty, a "Reset Playlist" button appears.
     Clicking this button restores the default playlist.
+
+    <img width="470" alt="300466064-c43076f8-b37e-41eb-b74a-074f0f1caeb8" src="https://github.com/maliksmcculler/musicplayer/assets/32546679/d104034e-2a60-4dcc-a5ef-34aaa92aa283">
+<img width="315" alt="300466182-8185836b-3333-44ff-a515-463d44fad40d" src="https://github.com/maliksmcculler/musicplayer/assets/32546679/705000f7-a0b6-4135-9248-d40decac82e7">
+
 
 Script Structure
 
